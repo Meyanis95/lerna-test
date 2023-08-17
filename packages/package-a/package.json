@@ -1,6 +1,6 @@
 {
   "name": "@yanismezn/package-a",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "test a",
   "main": "src/index.js",
   "license": "MIT",
