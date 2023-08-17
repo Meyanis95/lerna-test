@@ -1,5 +1,5 @@
 {
-  "name": "package-a",
+  "name": "@yanismezn/package-a",
   "version": "0.0.5",
   "description": "test a",
   "main": "src/index.js",
