@@ -2,5 +2,6 @@
   "name": "package-b",
   "version": "0.0.4",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "3e2b300e4b1524c0770a5c0045b7edb3d8c1f2e1"
 }
