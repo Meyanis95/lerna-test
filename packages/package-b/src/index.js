@@ -3,5 +3,5 @@ export function multiply(a, b) {
 }
 
 export function divide(b, a) {
-  return a / b;
+  return b / a;
 }
