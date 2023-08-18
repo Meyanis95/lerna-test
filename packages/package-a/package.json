@@ -1,8 +1,11 @@
 {
-  "name": "@yanismezn/package-a",
+  "name": "yanismezn-package-a",
   "version": "0.0.9",
   "description": "test a",
   "main": "src/index.js",
+  "scripts": {
+    "publish:package": "npm publish --access-public"
+  },
   "license": "MIT",
   "gitHead": "77b401d788c68e6254032f373ca9caf48bf51cba",
   "publishConfig": {
