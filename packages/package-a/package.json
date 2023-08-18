@@ -1,6 +1,6 @@
 {
   "name": "yanismezn-package-a",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "test a",
   "main": "src/index.js",
   "scripts": {
